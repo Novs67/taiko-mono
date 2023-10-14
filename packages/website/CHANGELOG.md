@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.18.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.17.0...website-v0.18.0) (2023-10-14)
+
+
+### Features
+
+* **website:** add covalent to ecosystem ([#14908](https://github.com/taikoxyz/taiko-mono/issues/14908)) ([9cc4db3](https://github.com/taikoxyz/taiko-mono/commit/9cc4db3ec8e59a619e8135f48d9af9a936325e82))
+* **website:** remove swap tokens guide ([#14897](https://github.com/taikoxyz/taiko-mono/issues/14897)) ([7dbf44c](https://github.com/taikoxyz/taiko-mono/commit/7dbf44c8ad1d0d1c67bf424d3f45ec6b2547465c))
+* **website:** update Rubic on ecosystem page ([#14933](https://github.com/taikoxyz/taiko-mono/issues/14933)) ([d1f6bef](https://github.com/taikoxyz/taiko-mono/commit/d1f6beffe020fe1171279cd5279ef08643a70d84))
+
 ## [0.17.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.16.0...website-v0.17.0) (2023-10-03)
 
 
